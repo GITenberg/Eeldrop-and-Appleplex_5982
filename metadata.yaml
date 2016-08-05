@@ -1,0 +1,28 @@
+_repo: Eeldrop-and-Appleplex_5982
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eliot, T. S. (Thomas Stearns)
+    alias: Eliot, Thomas Stearns
+    birthdate: 1888
+    deathdate: 1965
+    gutenberg_agent_id: '599'
+    url: http://www.gutenberg.org/2009/agents/599
+    wikipedia: http://en.wikipedia.org/wiki/T._S._Eliot
+description: There are evil neighborhoods of noise and evil neighborhoods of silence,
+  and Eeldrop and Appleplex preferred the latter, as being the more evil.
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5982'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Fiction'
+- GITenberg
+title: Eeldrop and Appleplex
+url: http://www.gutenberg.org/ebooks/5982
