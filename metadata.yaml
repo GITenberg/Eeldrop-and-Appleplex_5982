@@ -1,5 +1,8 @@
 _repo: Eeldrop-and-Appleplex_5982
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Eliot, T. S. (Thomas Stearns)
@@ -11,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/T._S._Eliot
 description: There are evil neighborhoods of noise and evil neighborhoods of silence,
   and Eeldrop and Appleplex preferred the latter, as being the more evil.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5982#Eeldrop-and-Appleplex
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
